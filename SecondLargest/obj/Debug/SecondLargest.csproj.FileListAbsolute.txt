@@ -1,0 +1,5 @@
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\profit\SecondLargest\bin\Debug\SecondLargest.exe.config
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\profit\SecondLargest\bin\Debug\SecondLargest.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\profit\SecondLargest\bin\Debug\SecondLargest.pdb
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\profit\SecondLargest\obj\Debug\SecondLargest.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\profit\SecondLargest\obj\Debug\SecondLargest.pdb

@@ -1,0 +1,6 @@
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\profit\profit\bin\Debug\profit.exe.config
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\profit\profit\bin\Debug\profit.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\profit\profit\bin\Debug\profit.pdb
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\profit\profit\obj\Debug\profit.csprojResolveAssemblyReference.cache
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\profit\profit\obj\Debug\profit.exe
+D:\D_drive\Bobi\SU 3 course 2 sem\HACK BG\attempt c++\profit\profit\obj\Debug\profit.pdb
