@@ -2,7 +2,7 @@
 
 namespace SecondLargest
 {
-    class Program
+    class Second
     {
         static void second_largest(int[] arr)
         {
@@ -58,8 +58,10 @@ namespace SecondLargest
         {
             Console.WriteLine("Enter the length of the array: ");
             int n = int.Parse(Console.ReadLine());
+
             int[] ourArray = new int[n];
-            Console.WriteLine("Enter the first array:");
+            Console.WriteLine("Enter the array:");
+
             for (int i = 0; i < n; i++)
             {
                 ourArray[i] = int.Parse(Console.ReadLine());

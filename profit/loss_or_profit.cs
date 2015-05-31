@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+class loss_or_profit
 {
     static int profit_and_loss(int[] arr1,int[] arr2)
     {
